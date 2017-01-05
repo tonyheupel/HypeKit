@@ -1,0 +1,6 @@
+framework module HypeKit {
+  umbrella header "HypeKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

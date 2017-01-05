@@ -1,0 +1,22 @@
+{
+  "name": "HypeKit",
+  "version": "0.1.0",
+  "summary": "A short description of HypeKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/HypeKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tony Heupel": "tony@heupel.net"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/HypeKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HypeKit/Classes/**/*"
+}
