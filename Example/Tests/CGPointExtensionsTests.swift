@@ -5,17 +5,6 @@ import Nimble
 import HypeKit
 
 class CGPointExtensionsSpecs: QuickSpec {
-//    override func spec() {
-//        describe("CGPoint distance to") {
-//            context("simple positive position points") {
-//                it("handles small positive whole numbers") {
-//                    let point1 = CGPoint(x: 0, y: 0)
-//                    let point2 = CGPoint(x: 3, y: 4)
-//                    expect(5.0) == point1.distance(to: point2)
-//                }
-//            }
-//        }
-//    }
     override func spec() {
         describe("CGPoint distance to") {
 
